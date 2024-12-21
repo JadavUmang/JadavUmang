@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jadav Umang</h1>
 <h3 align="center">IT student passionate about continuous learning. Proficient in Java, I've created multiple Android projects and also worked in PHP, SQLite, HTML, CSS, .Net and JS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadavumang&label=Profile%20views&color=0e75b6&style=flat" alt="jadavumang" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadavumang" alt="jadavumang" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Storage**
@@ -28,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadavumang&show_icons=true&locale=en" alt="jadavumang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadavumang&" alt="jadavumang" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JadavUmang/count.svg?"  />
+</div>
+
+###
